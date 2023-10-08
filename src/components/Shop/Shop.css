@@ -11,6 +11,10 @@
     margin: 100px 50px;
 }
 
+.cart-container {
+    background-color: #FF99004D;
+}
+
 /* Laptop */
 @media screen and (max-width: 1279px) {
     .products-container {

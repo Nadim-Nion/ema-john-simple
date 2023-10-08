@@ -34,6 +34,18 @@ Feel free to explore the code and contribute to the development of this exciting
 Netlify: https://ema-john-shopping-cart-nion.netlify.app/ 
 
 
+## Screenshots
+
+Image 1:
+
+![Ema-John-App](https://github.com/Nadim-Nion/ema-john-simple/assets/60613933/d467dcd6-ee23-47e1-9c1e-bc4710eaaeb1)
+
+
+Image 2 (Full Website):
+
+![Ema-John-App  2](https://github.com/Nadim-Nion/ema-john-simple/assets/60613933/0196e3ff-9fd6-41ac-9f6c-679de75c9c17)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

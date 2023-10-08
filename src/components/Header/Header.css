@@ -1,0 +1,23 @@
+.header {
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 112px;
+    padding-right: 112px;
+}
+
+.anchor a {
+    /* padding-right: 32px; */
+    margin-right: 32px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 400px;
+    font-size: 17px;
+}
+
+
+.anchor a:hover {
+    color: lightcoral;
+}

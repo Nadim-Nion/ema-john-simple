@@ -1,4 +1,39 @@
-# Getting Started with Create React App
+
+# Ema John Shopping Cart
+
+
+---
+
+**Project Name:** My Second React App 
+
+**Description:**
+This is my second React App, where I've leveraged HTML5 for structuring and plain CSS for designing. React.js has been instrumental in helping me write efficient code and create a dynamic user experience.
+
+**Key Features:**
+
+1. **API Integration:** I've seamlessly integrated an API to fetch detailed product information, providing users with up-to-date data.
+
+2. **Interactive Cart:** Users can add products to their cart with a single click. The number of items in the cart is dynamically updated and displayed in the UI, enhancing the shopping experience.
+
+3. **Responsive Design:** The website is designed to be responsive across various devices, including desktop, tablet, and mobile. I've utilized plain CSS for responsiveness, and in the future, I plan to incorporate CSS frameworks to further enhance compatibility across all devices.
+
+**Technologies Used:**
+- React.js
+- HTML5
+- Plain CSS
+
+**Future Enhancements:**
+I'm committed to continuously improving this project. Future plans include implementing CSS frameworks to ensure optimal responsiveness across a wide range of devices.
+
+Feel free to explore the code and contribute to the development of this exciting project!
+
+---
+
+## Live Website:
+
+Netlify: https://ema-john-shopping-cart-nion.netlify.app/ 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

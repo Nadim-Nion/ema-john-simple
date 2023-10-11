@@ -1,0 +1,14 @@
+.cart {
+    position: sticky;
+    top: 0;
+    /* padding: 30px 45px; */
+}
+
+.cart h3 {
+    padding: 30px 45px;
+}
+
+.cart .cart-div {
+    margin-top: 19px;
+    padding: 0 23px;
+}

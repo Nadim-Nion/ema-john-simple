@@ -36,6 +36,11 @@ Netlify: https://ema-john-shopping-cart-nion.netlify.app/
 
 ## Screenshots
 
+Final image of Website UI:
+
+![Ema-John-App](https://github.com/Nadim-Nion/ema-john-simple/assets/60613933/9746ab8b-f402-401a-9a5c-0109692149a0)
+
+
 Image 1:
 
 ![Ema-John-App](https://github.com/Nadim-Nion/ema-john-simple/assets/60613933/d467dcd6-ee23-47e1-9c1e-bc4710eaaeb1)
